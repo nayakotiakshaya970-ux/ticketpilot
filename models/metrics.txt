@@ -1,0 +1,2 @@
+Category accuracy: 100.00%
+Urgency accuracy: 70.00%
