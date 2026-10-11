@@ -38,8 +38,8 @@ python train_model.py
 streamlit run app.py
 ```
 
-## Live demo
-[Add your streamlit.app link here]
+## Live DEMO
+[https://ticketpilot-akshaya.streamlit.app]
 
 ## Future improvements
 - Train and test on a real-world ticket dataset
