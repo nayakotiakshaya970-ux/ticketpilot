@@ -39,7 +39,7 @@ streamlit run app.py
 ```
 
 ## Live DEMO
-[https://ticketpilot-akshaya.streamlit.app]
+https://ticketpilot-akshaya.streamlit.app
 
 ## Future improvements
 - Train and test on a real-world ticket dataset
